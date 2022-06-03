@@ -2,8 +2,9 @@
 
 ## Description
 
-Javascript project to shop online
-[live](https://gleaming-banoffee-7584ea.netlify.app)
+Javascript project to shop online 
+
+live [site](https://gleaming-banoffee-7584ea.netlify.app)
 
 ## Libraries
 
